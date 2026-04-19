@@ -1,0 +1,10 @@
+{
+  "id": "seonbi",
+  "name": "Seonbi",
+  "version": "0.0.1-beta.1",
+  "minAppVersion": "1.0.0",
+  "description": "Beautifies Korean text in reading view: corrects punctuation and renders Hanja with Hangul readings via Seonbi.",
+  "author": "Hanju Jo",
+  "authorUrl": "https://github.com/hanju-jo",
+  "isDesktopOnly": false
+}

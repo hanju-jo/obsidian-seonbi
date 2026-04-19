@@ -1,0 +1,22 @@
+{
+  "name": "obsidian-seonbi",
+  "version": "0.0.1-beta.1",
+  "description": "Obsidian plugin with Seonbi",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsc --noEmit --skipLibCheck && node esbuild.config.mjs production",
+    "dev": "node esbuild.config.mjs"
+  },
+  "dependencies": {
+    "@seonbi/wasm": "^0.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.19.17",
+    "builtin-modules": "^3.3.0",
+    "esbuild": "0.28.0",
+    "obsidian": "1.12.3",
+    "tslib": "^2.8.1",
+    "typescript": "^5.8.3"
+  }
+}
