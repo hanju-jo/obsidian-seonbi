@@ -86,4 +86,4 @@ This plugin uses the `@seonbi/wasm` package, which is made possible by [moreal/s
 
 ## License
 
-This project follows the license of the original [dahlia/seonbi](https://github.com/dahlia/seonbi) repository and is licensed under LGPL-2.1.
+This project follows the license of the original [dahlia/seonbi](https://github.com/dahlia/seonbi) repository and is distributed under the LGPL-2.1-or-later license. 
